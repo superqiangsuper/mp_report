@@ -1,0 +1,10 @@
+{
+  "reportId": 36,
+  "requestId": "8579d64911f74764a034a9420a1bd095",
+  "groupId": 2,
+  "callbackUrl": "http://localhost:18081/report/bundle/receive",
+  "beginTime": 1499916900000,
+  "endTime": 1500176100000,
+  "token": "1231213",
+  "couponId": 123
+}
